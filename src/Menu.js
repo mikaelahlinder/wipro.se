@@ -25,16 +25,16 @@ const Links = styled.div`
   text-align: center;
   padding-top: 20px;
 
-  a.active {
-    font-weight: bold;
-  }
-
   a {
     color: #fff;
     display: inline-block;
     font-size: 12px;
     font-family: 'Helvetica';
     margin: 5px 2px 4px 32px;
+
+    &.active {
+      font-weight: bold;
+    }
   }
 `
 

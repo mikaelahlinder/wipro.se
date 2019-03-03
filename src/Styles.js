@@ -35,9 +35,16 @@ export default () => (
       img {
         max-width: 100%;
       }
-      % ul {
+
+      ul {
         li {
           margin-bottom: 15px;
+        }
+      }
+
+      ul.compact {
+        li {
+          margin-bottom: 0;
         }
       }
     `}

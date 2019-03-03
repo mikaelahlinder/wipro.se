@@ -9,7 +9,7 @@ export default () => (
 
     <p>WIPRO har haft ca 170 uppdragsgivare sedan 1990, exempelvis...</p>
 
-    <ul>
+    <ul className='compact'>
       <li>Ericsson</li>
       <li>Spendrups</li>
       <li>ABB</li>
