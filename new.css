@@ -1,0 +1,150 @@
+html,
+body {
+  background-color: #fff;
+  margin: 0px;
+  font-family: Arial, Trebuchet MS, Verdana;
+  font-size: 14px !important;
+  color: #111;
+}
+
+p {
+  font-family: Verdana, Trebuchet MS, Verdana, Arial;
+}
+
+a,
+a:hover {
+  color: #0000ff;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 39px;
+  font-weight: normal !important;
+  font-family: 'Helvetica';
+}
+
+.article_showTxt {
+  font-family: Arial, Trebuchet MS, Verdana;
+  font-size: 14px !important;
+}
+
+/* 
+    NEW CONTAINERS
+*/
+
+#mainTopContainer {
+  background-image: url('img/WiproFirstTop.jpg');
+  height: 481px;
+  width: 1000px;
+  margin: 0px auto 0px auto;
+}
+
+#mainMenuContainer {
+  width: 720px;
+  height: 52px;
+  float: left;
+  overflow: hidden;
+  margin: 421px 0px 0px 265px;
+  text-align: center;
+  line-height: 22px;
+}
+
+#mainMenuContainer div {
+  text-align: center;
+  display: inline;
+  margin-left: 30px;
+}
+
+#mainMenuContainer div a,
+#subMenuContainer div a {
+  color: #fff;
+  font-weight: normal;
+  font-size: 12px;
+  font-family: 'Helvetica';
+}
+
+#mainTextContainer {
+  width: 1000px;
+  margin: 0px auto 0px auto;
+}
+
+#mainTextLeftContainer {
+  width: 590px;
+  float: left;
+  padding: 55px 60px 0px 60px;
+}
+
+#mainTextLeftContainer a {
+  text-decoration: underline;
+  color: #0000ff;
+}
+
+#mainTextRightContainer {
+  background-image: url('img/WiproRight.png');
+  height: 429px;
+  width: 281px;
+  float: left;
+  margin-top: 45px;
+}
+
+#subLogoContainer {
+  width: 185px;
+  height: 40px;
+  cursor: pointer;
+  float: left;
+  margin: 20px 0px 0px 60px;
+}
+
+#subTopContainer {
+  background-image: url('img/WiproSubTop.png');
+  height: 80px;
+  width: 1000px;
+  margin: 0px auto 0px auto;
+}
+
+#subMenuContainer {
+  width: 720px;
+  height: 52px;
+  float: left;
+  overflow: hidden;
+  margin: 20px 0px 0px 20px;
+  text-align: center;
+  line-height: 22px;
+}
+
+#subMenuContainer div {
+  text-align: center;
+  display: inline;
+  margin: 0px 0px 0px 30px;
+}
+
+#subTextContainer {
+  width: 1000px;
+  margin: 0px auto 0px auto;
+}
+
+#subTextLeftContainer {
+  width: 610px;
+  float: left;
+  padding: 20px 50px 50px 50px;
+}
+
+#subTextRightContainer {
+  background-image: url('img/WiproRight.png');
+  height: 429px;
+  width: 281px;
+  float: left;
+  margin-top: 20px;
+}
+
+.footer {
+  clear: both;
+  height: 30px;
+  width: 980px;
+  border-top: solid 1px #ccc;
+  margin: 50px auto 0px auto;
+  padding: 20px 0px 0px 20px;
+  text-align: left;
+  font-size: 12px;
+}
