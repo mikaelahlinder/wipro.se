@@ -63,7 +63,7 @@ ReactDOM.render(
         <Right />
       </Main>
       <Footer>
-        Copyright &copy; 2014 WIPRO AB | Vid fel eller fr&aring;gor; <a href='mailto:info@wipro.se'>info@wipro.se</a>
+        Copyright &copy; 2019 WIPRO AB | Vid fel eller fr&aring;gor; <a href='mailto:info@wipro.se'>info@wipro.se</a>
       </Footer>
     </Page>
   </Router>,
