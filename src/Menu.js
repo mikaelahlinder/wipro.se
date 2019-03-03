@@ -52,7 +52,7 @@ export default withRouter(({ history }) => (
         <NavLink to='/framgangsrikt-ledarskap'>Framgångsrikt ledarskap</NavLink>
         <NavLink to='/vd-att-hyra'>Vd att hyra</NavLink>
         <NavLink to='/referenser'>Referenser</NavLink>
-        <NavLink to='/fakta-Kontakt'>Fakta / Kontakt</NavLink>
+        <NavLink to='/fakta-kontakt'>Fakta / Kontakt</NavLink>
       </Links>
     </Menu>
   </>
